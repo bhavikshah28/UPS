@@ -1,0 +1,12 @@
+D:\Projects\AspNetCoreSpa\src\Core\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\Projects\AspNetCoreSpa\src\Core\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AspNetCoreSpa\src\Core\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\Projects\AspNetCoreSpa\src\Core\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\Projects\AspNetCoreSpa\src\Core\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\Projects\AspNetCoreSpa\src\Core\Domain\bin\Debug\net7.0\UPS.Domain.deps.json
+D:\Projects\AspNetCoreSpa\src\Core\Domain\bin\Debug\net7.0\UPS.Domain.dll
+D:\Projects\AspNetCoreSpa\src\Core\Domain\bin\Debug\net7.0\UPS.Domain.pdb
+D:\Projects\AspNetCoreSpa\src\Core\Domain\obj\Debug\net7.0\UPS.Domain.dll
+D:\Projects\AspNetCoreSpa\src\Core\Domain\obj\Debug\net7.0\refint\UPS.Domain.dll
+D:\Projects\AspNetCoreSpa\src\Core\Domain\obj\Debug\net7.0\UPS.Domain.pdb
+D:\Projects\AspNetCoreSpa\src\Core\Domain\obj\Debug\net7.0\ref\UPS.Domain.dll

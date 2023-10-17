@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+		<RootNamespace>UPS.Common</RootNamespace>
+		<AssemblyName>UPS.Common</AssemblyName>
+	</PropertyGroup>
+
+</Project>
