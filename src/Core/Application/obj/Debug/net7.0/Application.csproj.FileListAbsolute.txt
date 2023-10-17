@@ -1,0 +1,17 @@
+D:\Projects\AspNetCoreSpa\src\Core\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+D:\Projects\AspNetCoreSpa\src\Core\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AspNetCoreSpa\src\Core\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+D:\Projects\AspNetCoreSpa\src\Core\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+D:\Projects\AspNetCoreSpa\src\Core\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+D:\Projects\AspNetCoreSpa\src\Core\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+D:\Projects\AspNetCoreSpa\src\Core\Application\bin\Debug\net7.0\UPS.Application.deps.json
+D:\Projects\AspNetCoreSpa\src\Core\Application\bin\Debug\net7.0\UPS.Application.dll
+D:\Projects\AspNetCoreSpa\src\Core\Application\bin\Debug\net7.0\UPS.Application.pdb
+D:\Projects\AspNetCoreSpa\src\Core\Application\bin\Debug\net7.0\UPS.Common.dll
+D:\Projects\AspNetCoreSpa\src\Core\Application\bin\Debug\net7.0\UPS.Domain.dll
+D:\Projects\AspNetCoreSpa\src\Core\Application\bin\Debug\net7.0\UPS.Common.pdb
+D:\Projects\AspNetCoreSpa\src\Core\Application\bin\Debug\net7.0\UPS.Domain.pdb
+D:\Projects\AspNetCoreSpa\src\Core\Application\obj\Debug\net7.0\UPS.Application.dll
+D:\Projects\AspNetCoreSpa\src\Core\Application\obj\Debug\net7.0\refint\UPS.Application.dll
+D:\Projects\AspNetCoreSpa\src\Core\Application\obj\Debug\net7.0\UPS.Application.pdb
+D:\Projects\AspNetCoreSpa\src\Core\Application\obj\Debug\net7.0\ref\UPS.Application.dll
