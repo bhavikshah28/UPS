@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\AspNetCoreSpa\\src\\Presentation\\STS\\wwwroot\\_references.js",
+      "PackagePath": "staticwebassets\\_references.js"
+    },
+    {
+      "Id": "D:\\Projects\\AspNetCoreSpa\\src\\Presentation\\STS\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Projects\\AspNetCoreSpa\\src\\Presentation\\STS\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\AspNetCoreSpa\\src\\Presentation\\STS\\wwwroot\\css\\vendor.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\AspNetCoreSpa\\src\\Presentation\\STS\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Projects\\AspNetCoreSpa\\src\\Presentation\\STS\\wwwroot\\icon.jpg",
+      "PackagePath": "staticwebassets\\icon.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\AspNetCoreSpa\\src\\Presentation\\STS\\wwwroot\\icon.png",
+      "PackagePath": "staticwebassets\\icon.png"
+    },
+    {
+      "Id": "D:\\Projects\\AspNetCoreSpa\\src\\Presentation\\STS\\wwwroot\\js\\qrcode.min.js",
+      "PackagePath": "staticwebassets\\js\\qrcode.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\AspNetCoreSpa\\src\\Presentation\\STS\\wwwroot\\js\\signout-redirect.js",
+      "PackagePath": "staticwebassets\\js\\signout-redirect.js"
+    },
+    {
+      "Id": "D:\\Projects\\AspNetCoreSpa\\src\\Presentation\\STS\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Projects\\AspNetCoreSpa\\src\\Presentation\\STS\\wwwroot\\js\\site.min.js",
+      "PackagePath": "staticwebassets\\js\\site.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\AspNetCoreSpa\\src\\Presentation\\STS\\wwwroot\\js\\vendor-validation.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor-validation.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\AspNetCoreSpa\\src\\Presentation\\STS\\wwwroot\\js\\vendor.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.UPS.STS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.UPS.STS.props",
+      "PackagePath": "build\\UPS.STS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.UPS.STS.props",
+      "PackagePath": "buildMultiTargeting\\UPS.STS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.UPS.STS.props",
+      "PackagePath": "buildTransitive\\UPS.STS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
