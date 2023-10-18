@@ -1,0 +1,12 @@
+D:\Projects\AspNetCoreSpa\src\Core\Common\obj\Debug\net7.0\Common.csproj.AssemblyReference.cache
+D:\Projects\AspNetCoreSpa\src\Core\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AspNetCoreSpa\src\Core\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
+D:\Projects\AspNetCoreSpa\src\Core\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
+D:\Projects\AspNetCoreSpa\src\Core\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
+D:\Projects\AspNetCoreSpa\src\Core\Common\bin\Debug\net7.0\UPS.Common.deps.json
+D:\Projects\AspNetCoreSpa\src\Core\Common\bin\Debug\net7.0\UPS.Common.dll
+D:\Projects\AspNetCoreSpa\src\Core\Common\bin\Debug\net7.0\UPS.Common.pdb
+D:\Projects\AspNetCoreSpa\src\Core\Common\obj\Debug\net7.0\UPS.Common.dll
+D:\Projects\AspNetCoreSpa\src\Core\Common\obj\Debug\net7.0\refint\UPS.Common.dll
+D:\Projects\AspNetCoreSpa\src\Core\Common\obj\Debug\net7.0\UPS.Common.pdb
+D:\Projects\AspNetCoreSpa\src\Core\Common\obj\Debug\net7.0\ref\UPS.Common.dll
