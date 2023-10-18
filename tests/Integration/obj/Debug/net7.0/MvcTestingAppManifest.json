@@ -1,0 +1,7 @@
+{
+  "UPS.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Projects\\AspNetCoreSpa\\src\\Core\\Application",
+  "UPS.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Projects\\AspNetCoreSpa\\src\\Core\\Common",
+  "UPS.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Projects\\AspNetCoreSpa\\src\\Core\\Domain",
+  "UPS.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Projects\\AspNetCoreSpa\\src\\Infrastructure\\Infrastructure",
+  "UPS.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Projects\\AspNetCoreSpa\\src\\Presentation\\Web"
+}

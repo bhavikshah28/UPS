@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "oQopQipkYK76i+P15Pwz1LAIbKt4gdkfMu46JZgxk/0=",
+  "Source": "UPS.Web",
+  "BasePath": "_content/UPS.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UPS.Web\\wwwroot",
+      "Source": "UPS.Web",
+      "ContentRoot": "D:\\Projects\\AspNetCoreSpa\\src\\Presentation\\Web\\wwwroot\\",
+      "BasePath": "_content/UPS.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Projects\\AspNetCoreSpa\\src\\Presentation\\Web\\wwwroot\\.gitkeep",
+      "SourceId": "UPS.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\AspNetCoreSpa\\src\\Presentation\\Web\\wwwroot\\",
+      "BasePath": "_content/UPS.Web",
+      "RelativePath": ".gitkeep",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\.gitkeep"
+    },
+    {
+      "Identity": "D:\\Projects\\AspNetCoreSpa\\src\\Presentation\\Web\\wwwroot\\api\\specification.json",
+      "SourceId": "UPS.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\AspNetCoreSpa\\src\\Presentation\\Web\\wwwroot\\",
+      "BasePath": "_content/UPS.Web",
+      "RelativePath": "api/specification.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\specification.json"
+    },
+    {
+      "Identity": "D:\\Projects\\AspNetCoreSpa\\src\\Presentation\\Web\\wwwroot\\favicon.ico",
+      "SourceId": "UPS.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\AspNetCoreSpa\\src\\Presentation\\Web\\wwwroot\\",
+      "BasePath": "_content/UPS.Web",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}
